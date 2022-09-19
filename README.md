@@ -1,3 +1,6 @@
+# React Testing Tutorial (Llama Dev)
+https://www.youtube.com/watch?v=Flo268xRpV0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

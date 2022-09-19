@@ -2,6 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const x = 2;
+  const y = 4;
+
   return (
     <div className="App">
       <header className="App-header">
@@ -17,6 +20,13 @@ function App() {
         >
           Learn React
         </a>
+        <ul>
+          <li>Apple</li>
+          <li>Banana</li>
+          <li>Orange</li>
+        </ul>
+        <h1 data-testid="mytestid">Hello</h1>
+        <span title="sum">{x + y}</span>
       </header>
     </div>
   );
